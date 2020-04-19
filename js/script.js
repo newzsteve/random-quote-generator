@@ -191,7 +191,7 @@ function getRandomQuote() {
 
   do {
 
-    quoteIndex = getRandomIntInclusive(0, 5);
+    quoteIndex = getRandomIntInclusive(0, 38);
 
   } while (quotesUsed.includes(quoteIndex));
 
