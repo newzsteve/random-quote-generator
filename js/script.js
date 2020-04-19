@@ -1,28 +1,43 @@
 var quotes = [
   {
     quote: "Given the choice of anyone in the world, whom would you want as a dinner guest?",
-    source: "The 36 Questions That Lead to Love, New York Times",
-    tags: ["Date"]
+    source: "The 36 Questions That Lead to Love, New York Times"
   },
   {
     quote: "Would you like to be famous? In what way?",
-    source: "The 36 Questions That Lead to Love, New York Times",
-    tags: ["Just Do It", "Sports"]
+    source: "The 36 Questions That Lead to Love, New York Times"
   },
   {
     quote: "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
-    source: "The 36 Questions That Lead to Love, New York Times",
-    tags: ["Determination", "Grit"]
+    source: "The 36 Questions That Lead to Love, New York Times"
   },
   {
     quote: "What would constitute a “perfect” day for you?",
-    source: "The 36 Questions That Lead to Love, New York Times",
-    tags: ["Perserverance", "Innovation"]
+    source: "The 36 Questions That Lead to Love, New York Times"
   },
   {
     quote: "When did you last sing to yourself? To someone else?",
-    source: "The 36 Questions That Lead to Love, New York Times",
-    tags: ["Just Do It", "Tech"]
+    source: "The 36 Questions That Lead to Love, New York Times"
+  },
+    {
+    quote: "Given the choice of anyone in the world, whom would you want as a dinner guest?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+  },
+  {
+    quote: "Would you like to be famous? In what way?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+  },
+  {
+    quote: "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+  },
+  {
+    quote: "Do you have a secret hunch about how you will die?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+  },
+  {
+    quote: "Name three things you and your partner appear to have in common.",
+    source: "The 36 Questions That Lead to Love, New York Times"
   },
   {
     quote: "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?",
@@ -30,7 +45,107 @@ var quotes = [
     citation: "https://www.nytimes.com/2015/01/11/style/36-questions-that-lead-to-love.html",
     year: 1933,
     tags: ["Hope", "Politics"]
-  }
+  },
+  {
+   quote: "If you could change anything about the way you were raised, what would it be?",
+   source: "The 36 Questions That Lead to Love, New York Times"
+ },
+{
+    quote: "Take four minutes and tell your partner your life story in as much detail as possible.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What do you value most in a friendship?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What is your most treasured memory?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What is your most terrible memory?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What does friendship mean to you?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What roles do love and affection play in your life?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "How close and warm is your family? Do you feel your childhood was happier than most other people’s?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "How do you feel about your relationship with your mother?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Make three true “we” statements each. For instance, “We are both in this room feeling ... “",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Complete this sentence: “I wish I had someone with whom I could share ... “",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "If you were going to become a close friend with your partner, please share what would be important for him or her to know.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Share with your partner an embarrassing moment in your life.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "When did you last cry in front of another person? By yourself?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Tell your partner something that you like about them already.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "What, if anything, is too serious to be joked about?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Of all the people in your family, whose death would you find most disturbing? Why?",
+    source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.",
+    source: "The 36 Questions That Lead to Love, New York Times"
+}
 ];
 
 // CSS Color Names
