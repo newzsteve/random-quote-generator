@@ -752,7 +752,7 @@ var quotes = [
 // Use it as you please, 'cuz you can't, like, own a color, man.
 // I deleted colors that didn't provide sufficient contrast or seemed particularly grating.
 
-var CSS_COLOR_NAMES = ["MediumAquaMarine", "MediumBlue", "MediumOrchid", "MediumPurple", "MediumSeaGreen", "MediumSlateBlue", "MediumTurquoise", "MediumVioletRed", "Frosted Mint", "Quartz", "Desert Storm", "Pig Pink", "Oyster Bay"];
+var CSS_COLOR_NAMES = ["Frosted Mint", "Quartz", "Desert Storm", "Pig Pink", "Oyster Bay"];
 
 var quoteIndex = 0;
 var colorIndex = 0;
