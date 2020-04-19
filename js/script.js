@@ -1,33 +1,33 @@
 var quotes = [
   {
-    quote: "No Grit, No Pearl.",
-    source: "Anonymous",
-    tags: ["Grit", "Determination", "Success"]
+    quote: "Given the choice of anyone in the world, whom would you want as a dinner guest?",
+    source: "The 36 Questions That Lead to Love, New York Times",
+    tags: ["Date"]
   },
   {
-    quote: "You miss 100% of the shots you don't take.",
-    source: "Wayne Gretzky",
+    quote: "Would you like to be famous? In what way?",
+    source: "The 36 Questions That Lead to Love, New York Times",
     tags: ["Just Do It", "Sports"]
   },
   {
-    quote: "Fall seven times, stand up eight.",
-    source: "Japanese Proverb",
+    quote: "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+    source: "The 36 Questions That Lead to Love, New York Times",
     tags: ["Determination", "Grit"]
   },
   {
-    quote: "I have not failed. I've just found 10,000 ways that won&#39;t work.",
-    source: "Thomas A. Edison",
+    quote: "What would constitute a “perfect” day for you?",
+    source: "The 36 Questions That Lead to Love, New York Times",
     tags: ["Perserverance", "Innovation"]
   },
   {
-    quote: "Done is better than perfect.",
-    source: "Sheryl Sandberg",
+    quote: "When did you last sing to yourself? To someone else?",
+    source: "The 36 Questions That Lead to Love, New York Times",
     tags: ["Just Do It", "Tech"]
   },
   {
-    quote: "The only thing we have to fear is fear itself.",
-    source: "Franklin D. Roosevelt",
-    citation: "First Inaugural Address",
+    quote: "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?",
+    source: "The 36 Questions That Lead to Love, New York Times",
+    citation: "https://www.nytimes.com/2015/01/11/style/36-questions-that-lead-to-love.html",
     year: 1933,
     tags: ["Hope", "Politics"]
   }
