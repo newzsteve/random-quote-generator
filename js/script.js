@@ -145,6 +145,206 @@ var quotes = [
 {
     quote: "Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.",
     source: "The 36 Questions That Lead to Love, New York Times"
+},
+{
+    quote: "When do you feel the most attractive?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What scares you the most about growing old?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you feel like anything is missing from your life?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What memory do you replay the most in your mind?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What’s the nicest thing you’ve ever done for someone else?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you like the sound of your name?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you have any reoccurring dreams or nightmares?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What unanswerable question bothers you the most?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you write in script or print?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "At what age did you learn the most about yourself?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What do you think the best part of being married is?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Which celebrity do you think you’d be BFFs with?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "When was the last time you were disappointed in yourself?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Have you ever had a premonition that came true?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Is there someone that you’ll never forgive?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "At what age did you start to consider yourself an adult?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe in fortune tellers and tarot cards?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Which time period do you like the best, aesthetically speaking?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What is the meanest thing your inner voice tells you?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Which wild animal do you wish you could keep as a pet?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "In what ways have you grown over the course of your life?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you consider yourself a spiritual person?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "How long did it take you to learn to love yourself?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you think your parents are proud of where you are in life?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What do you think your purpose in life is?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What’s the most childish thing you still love to do?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Is there a teacher that you wish you could call up and thank?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Were you ever tempted to cheat on a past partner?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What do you think the afterlife consists of?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What’s the worst physical pain that you’ve ever suffered through?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What do you do when you’re feeling lonely?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What couple (that you personally know) do you look up to?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe in destiny?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe success comes in the form of money or happiness?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What scent reminds you of your childhood?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What type of animal would you like to be reincarnated as?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Have you ever manipulated someone to get what you wanted?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What don’t you regret that you probably should?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe every life has an equal value?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "If you had to get a tattoo to honor someone, who would it be?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What’s the most intimate thing a couple could do together?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you daydream more about the future or your past?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe in love at first sight or do you think it takes time to grow?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Which song lyric has had the biggest impact on you?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What would instantly make you fall out of love with someone?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "What bad habit have you managed to break?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe in ghosts, aliens, or any mythical creatures?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Do you believe you’re going to be a good parent?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "Which celebrity death impacted you the most?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
+},
+{
+    quote: "If you could speak to anyone in heaven, who would it be?",
+    source: "50 Questions That Will Make You Fall Even Deeper In Love"
 }
 ];
 
@@ -164,7 +364,7 @@ var quotesUsed = [];
 var intervalID;
 
 // const keyword is not supported in IE
-var NUMBER_OF_QUOTES = 38;
+var NUMBER_OF_QUOTES = 88;
 var CHANGE_INTERVAL = 1000000;
 
 // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
@@ -191,7 +391,7 @@ function getRandomQuote() {
 
   do {
 
-    quoteIndex = getRandomIntInclusive(0, 38);
+    quoteIndex = getRandomIntInclusive(0, 87);
 
   } while (quotesUsed.includes(quoteIndex));
 
